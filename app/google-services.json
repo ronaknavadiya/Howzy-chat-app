@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "122555353205",
+    "firebase_url": "https://howzy-f61cb.firebaseio.com",
+    "project_id": "howzy-f61cb",
+    "storage_bucket": "howzy-f61cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122555353205:android:06d97f2a3d046adae5503c",
+        "android_client_info": {
+          "package_name": "com.example.howzy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122555353205-dter59tddm4meq4ul5dr1a0dbbk9nklj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlxCXBPJuFmcqmtrl-QTf5eM-Uyo2G3l8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122555353205-dter59tddm4meq4ul5dr1a0dbbk9nklj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
